@@ -11,8 +11,8 @@ the code works on any kind of Deep Learning as well as Machine Learning models. 
 ## Key components:
 * Data_preprocessing.py: The file should contain the process for reading and preprocessing necessary data for the model.
 * Model.py: File that should contain the architecture of the model and the function for training the model.
-* bee_colony_optimisation.ipynb: File that contains code for Bee Colony Optimisation (BCO).
-* cuckoo_search_optimisation.ipynb: File that contains code for Cuckoo Search Optimisation (CSO).
+* BCO.ipynb: File that contains code for Bee Colony Optimisation (BCO).
+* CSO.ipynb: File that contains code for Cuckoo Search Optimisation (CSO).
 Any algorithm can be used for hyperparameter tuning.
 
 ## Confused which to use?
