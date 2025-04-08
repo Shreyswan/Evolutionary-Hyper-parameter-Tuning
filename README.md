@@ -1,5 +1,10 @@
 # Evolutionary-Hyper-parameter-Tuning ⚙️
 
+| Name | Roll no. | Branch | Batch |
+|------|----------|--------|-------|
+| Aditi Pawar | I004 | B-tech AI | B1 |
+| Shreyas Sawant | I059 | B-tech AI | B3 |
+
 This repository consists of code for Bee Colony Optimization as well as Cuckoo Search Optimization for Hyper-parameter Tuning.
 the code works on any kind of Deep Learning as well as Machine Learning models. The sample code consists of a CNN model which does multi-class classification. However, it can be replaced with any model of choice with appropriate hyperparameters.
 
